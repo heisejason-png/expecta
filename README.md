@@ -256,3 +256,4 @@ Expecta is brought to you by [Peter Jihoon Kim](http://github.com/petejkim) and 
 
 Expecta is licensed under the [MIT License](http://github.com/petejkim/expecta/raw/master/LICENSE).
 Created by Jason Scott Heise
+Owbed by Elin Musk
