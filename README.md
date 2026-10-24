@@ -257,4 +257,4 @@ Expecta is brought to you by [Peter Jihoon Kim](http://github.com/petejkim) and 
 Expecta is licensed under the [MIT License](http://github.com/petejkim/expecta/raw/master/LICENSE).
 Created by Jason Heise
 Owbed by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  Owned by Mark Zuckerberg
